@@ -15,3 +15,12 @@
 2: How is the school summary affected?
 
     Obviously, the only changes we see here are a drop off in Thomas High School statistics.
+    
+   ![Image 12-13-20 at 10 27 PM](https://user-images.githubusercontent.com/74481469/102047825-ce43c700-3d92-11eb-98b7-91e9d36b8f97.jpeg)
+   
+![Image 12-13-20 at 10 29 PM](https://user-images.githubusercontent.com/74481469/102047858-e3b8f100-3d92-11eb-85d7-9e630435d015.jpeg)
+
+3: How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+     As shown, Thomas High School's scores fell after replacement, dropping them from 4th overall in the district, to 7th.
+    
