@@ -9,4 +9,4 @@
 1: How is the district summary affected?
  
     Suprisingly, we only see a 0.1% drop in avg math scores between the two results.
-    ![](https://github.com/Wall-E28/school_district_analysis/blob/master/Resources/Before_District_Summary.png)
+    
