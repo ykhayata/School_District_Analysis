@@ -52,3 +52,13 @@
       Since THS is a charter school, we saw a drop off in overall passing percentage in this category from 90% to 87%. 
 
    ![Image 12-13-20 at 10 56 PM](https://user-images.githubusercontent.com/74481469/102049801-6becc580-3d96-11eb-9777-6af93603db16.jpeg)
+
+## Summary 
+
+1: Clearly, there is a huge drop-off in competitiveness with Thomas High School, once the 9th grade scores are dropped, compared to other charter schools.
+
+2: The 9th grade overall district scores decreased once we stripped the Thomas High School 9th grade data.
+
+3: The District summary DF is pretty identical, other than when looking at Thomas High School.
+
+4: The decrease in passing percentage wasn't as drastic as you would expect, as the 10th-12th graders maintained succesfull passing percentages, which helped with the overall school performance.
