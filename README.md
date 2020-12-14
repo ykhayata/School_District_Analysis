@@ -9,4 +9,4 @@
 1: How is the district summary affected?
  
     Suprisingly, we only see a 0.1% drop in avg math scores between the two results.
-    
+    ![Image 12-13-20 at 10 23 PM](https://user-images.githubusercontent.com/74481469/102047309-e2d38f80-3d91-11eb-9457-001f7dbf1a8f.jpeg)
