@@ -24,3 +24,31 @@
 
      As shown, Thomas High School's scores fell after replacement, dropping them from 4th overall in the district, to 7th.
     
+4: How does replacing the ninth-grade scores affect the following:
+  
+  Math and reading scores by grade:
+  
+      Thomas High School 9th graders' scores were replaced with NaN, and this is the only change in data.
+      
+   ![Image 12-13-20 at 10 45 PM](https://user-images.githubusercontent.com/74481469/102049004-f2080c80-3d94-11eb-953b-ef5c2b2a324c.jpeg)
+   ![Image 12-13-20 at 10 46 PM](https://user-images.githubusercontent.com/74481469/102049384-99853f00-3d95-11eb-8128-6b01fe087297.jpeg)
+
+
+  Scores by school spending:
+  
+       Since Thomas High School falls in the ($630 to $644) bin, we saw a drop in overall passing percentage, as seen below.
+       
+   ![Image 12-13-20 at 10 49 PM](https://user-images.githubusercontent.com/74481469/102049331-83777e80-3d95-11eb-9b0e-bc1923bd8293.jpeg)
+
+  Scores by school size:
+  
+      Since THS falls in the (1000 to 2000) school size bin, we saw a drop off from 91% to 85% in this specific bin.
+      
+   ![Image 12-13-20 at 10 54 PM](https://user-images.githubusercontent.com/74481469/102049663-292aed80-3d96-11eb-82fe-06a5c0068d7f.jpeg)
+      
+
+  Scores by school type:
+  
+      Since THS is a charter school, we saw a drop off in overall passing percentage in this category from 90% to 87%. 
+
+   ![Image 12-13-20 at 10 56 PM](https://user-images.githubusercontent.com/74481469/102049801-6becc580-3d96-11eb-9777-6af93603db16.jpeg)
